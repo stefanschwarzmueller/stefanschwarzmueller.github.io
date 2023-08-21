@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true 
 ---
 
-[2] Test
+[2] The Solid Solution Series (GeTe)x(LiSbTe2)2 (1 ≤ x ≤ 11) and the Thermoelectric Properties of (GeTe)11(LiSbTe2)2
 
 [1] Efficient and stable CH3NH3PbI3-sensitized ZnO nanorod array solid-state solar cells \\
     D. Bi, G. Boschloo, S. Schwarzmüller, L. Yang, E. M. J. Johansson, A. Hagfeldt \\
