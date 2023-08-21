@@ -3,6 +3,7 @@ layout: archive
 title: "Peer-reviewed Publications"
 permalink: /publications/
 author_profile: true
+set: smartindent
 ---
 
 [1]     Efficient and stable CH3NH3PbI3-sensitized ZnO nanorod array solid-state solar cells \\
