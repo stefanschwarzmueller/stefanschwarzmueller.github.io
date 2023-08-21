@@ -2,8 +2,7 @@
 layout: archive
 title: "Peer-reviewed Publications"
 permalink: /publications/
-author_profile: true
-set: ignoreAllSpace = false 
+author_profile: true 
 ---
 
 [2] Test
