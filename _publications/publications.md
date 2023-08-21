@@ -3,8 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
-___
+---
 
 [1] Efficient and stable CH3NH3PbI3-sensitized ZnO nanorod array solid-state solar cells
 D. Bi, G. Boschloo, S. Schwarzmüller, L. Yang, E. M. J. Johansson, A. Hagfeldt
