@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 
+<b>[6] Phase Transitions of Thermoelectric TAGS-85</b> \\
+       A. Kumar, P. A. Vermeulen, B. J. Kooi, J. Rao, L. van Eijck, S. Schwarzmüller, O. Oeckler, G. R. Blake \\
+       <i>Inorg. Chem.</i> <b>2017</b>, <i>56</i>, 15091-15100. \\
+       <a href="https://doi.org/10.1021/acs.inorgchem.7b02433">https://doi.org/10.1021/acs.inorgchem.7b02433</a>
+
+
+<b>[5] Structural Complexity and Thermoelectric Properties of Quaternary and Quinary Tellurides (Ge<em><sub>x</sub></em>Sn<sub>1&ndash;<em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
+       L. Neudert, S. Schwarzmüller, M. Scheel, S. Welzmiller, O. Oeckler \\
+       <i>Z. Anorg. Allg. Chem.</i> <b>2017</b>, <i>643</i>, 1962-1970. \\
+       <a href="https://doi.org/10.1002/zaac.201700337">https://doi.org/10.1002/zaac.201700337</a>
+
+
 <b>[4] The Influence of Nanoscale Heterostructures on the Thermoelectric Properties of Bi-substituted Tl<sub>5</sub>Te<sub>3</sub></b> \\
        F. Heinke, L. Eisenburger, R. Schlegel, S. Schwarzmüller, O. Oeckler \\
        <i>Z. Anorg. Allg. Chem.</i> <b>2017</b>, <i>643</i>, 447-454. \\
