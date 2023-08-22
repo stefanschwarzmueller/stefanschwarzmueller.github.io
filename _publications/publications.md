@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true 
 ---
 
+<b>[8] Structural variations in indium tin tellurides and their thermoelectric properties</b> \\
+       L. Neudert, S. Schwarzmüller, S. Schmitzer, W. Schnick, O. Oeckler \\
+       <i>J. Solid State Chem.</i> <b>2018</b>, <i>258</i>, 289-297. \\
+       <a href="https://doi.org/10.1016/j.jssc.2017.10.021">https://doi.org/10.1016/j.jssc.2017.10.021</a>
+
+
+<b>[7] A cubic room temperature polymorph of thermoelectric TAGS-85</b> \\
+       A. Kumar, P. A. Vermeulen, B. J. Kooi, J. Rao, S. Schwarzmüller, O. Oeckler, G. R. Blake \\
+       <i>RSC Adv.</i> <b>2018</b>, <i>8</i>, 42322-42328. \\
+       <a href="https://doi.org/10.1039/C8RA05768K">https://doi.org/10.1039/C8RA05768K</a>
+
 
 <b>[6] Phase Transitions of Thermoelectric TAGS-85</b> \\
        A. Kumar, P. A. Vermeulen, B. J. Kooi, J. Rao, L. van Eijck, S. Schwarzmüller, O. Oeckler, G. R. Blake \\
