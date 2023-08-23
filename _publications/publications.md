@@ -7,6 +7,18 @@ author_profile: true
 
 
 <br>
+<b>[14] The Sodium Antimony Telluridogermanate(III) Na<sub>9</sub>Sb[Ge<sub>2</sub>Te<sub>6</sub>]<sub>2</sub></b> \\
+        S. Schwarzmüller, V. H.-T. Tran, F. Yang, O. Oeckler \\
+        <i>Z. Anorg. Allg. Chem.</i> <b>2019</b>, <i>645</i>, 1037-1042. \\
+        <a href="https://doi.org/10.1002/zaac.201900158">https://doi.org/10.1002/zaac.201900158</a></a>
+
+
+<b>[13] Cobalt germanide precipitates indirectly improve the properties of thermoelectric germanium antimony tellurides</b> \\
+        D. Souchay, S. Schwarzmüller, H. Becker, S. Kante, G. J. Snyder, A. Leineweber, O. Oeckler \\
+        <i>J. Mater. Chem. C</i> <b>2019</b>, <i>7</i>, 11419-11430. \\
+        <a href="https://doi.org/10.1039/C9TC03410B">https://doi.org/10.1039/C9TC03410B</a>
+
+
 <b>[12] Argyrodite-Type Cu<sub>8</sub>GeSe<sub>6&ndash;<em>x</em></sub>Te<em><sub>x</sub></em>&nbsp;(0 &le;&nbsp;<em>x</em>&nbsp;&le; 2): Temperature-Dependent Crystal Structure and Thermoelectric Properties</b> \\
         S. Schwarzmüller, D. Souchay, D. Günther, A. Gocke, I. Dovgaliuk, S. A. Miller, G. J. Snyder, O. Oeckler \\
         <i>Z. Anorg. Allg. Chem.</i> <b>2018</b>, <i>644</i>, 1915-1922. \\
