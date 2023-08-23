@@ -7,6 +7,12 @@ author_profile: true
 
 
 <br>
+<b>[19] An Unexpected New Member of the Family of Lithium Oxonitridosilicates &ndash; Li<sub>7</sub>Si<sub>2</sub>NO<sub>6</sub></b> \\
+        K. M. Rießbeck, M. Seibald, S. Schwarzmüller, D. Baumann, H. Huppertz \\
+        <i>Eur. J. Inorg. Chem.</i> <b>2023</b>, e202300304. \\
+        <a href="https://doi.org/10.1002/ejic.202300304">https://doi.org/10.1002/ejic.202300304</a>
+
+
 <b>[18] Endotaxial Intergrowth of Copper Telluride in GeTe-Rich Germanium Antimony Tellurides Leads to High Thermoelectric Performance</b> \\
         S. Schwarzmüller, D. Souchay, G. Wagner, P. Kemmesies, D. Günther, M. Bittner, G. Zhang, Z. Ren, A. Feldhoff, G. J. Snyder, O. Oeckler \\
         <i>Chem. Mater.</i> <b>2022</b>, <i>34</i>, 10025-10039. \\
