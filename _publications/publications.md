@@ -7,16 +7,16 @@ author_profile: true
 
 
 <br>
-<b>[16] Cobalt germanide precipitates indirectly improve the properties of thermoelectric germanium antimony tellurides</b> \\
-        D. Souchay, S. Schwarzmüller, H. Becker, S. Kante, G. J. Snyder, A. Leineweber, O. Oeckler \\
-        <i>J. Mater. Chem. C</i> <b>2019</b>, <i>7</i>, 11419-11430. \\
-        <a href="https://doi.org/10.1039/C9TC03410B" style="color:#02066F;">https://doi.org/10.1039/C9TC03410B</a>
+<b>[16] Lithium atom mobility in lithium germanium antimony tellurides elucidated by neutron diffraction and quasielastic neutron scattering</b> \\
+        S. Schwarzmüller, M. Hoelzel, K. Fritsch, Z. Evenson, K. Habicht, O. Oeckler \\
+        <i>J. Alloys Compd.</i> <b>2020</b>, <i>827</i>, 154346. \\
+        <a href="https://doi.org/10.1016/j.jallcom.2020.154346">https://doi.org/10.1016/j.jallcom.2020.154346</a>
 
 
-<b>[15] Cobalt germanide precipitates indirectly improve the properties of thermoelectric germanium antimony tellurides</b> \\
-        D. Souchay, S. Schwarzmüller, H. Becker, S. Kante, G. J. Snyder, A. Leineweber, O. Oeckler \\
-        <i>J. Mater. Chem. C</i> <b>2019</b>, <i>7</i>, 11419-11430. \\
-        <a href="https://doi.org/10.1039/C9TC03410B">https://doi.org/10.1039/C9TC03410B</a>
+<b>[15] Structures and transport properties of metastable solid solutions (NaSbTe<sub>2</sub>)<sub>1-<em>x</em></sub>(GeTe)<sub><em>x</em></sub></b> \\
+        S. Schwarzmüller, F. Yang, O. Oeckler \\
+        <i>J. Alloys Compd.</i> <b>2019</b>, <i>806</i>, 774-779. \\
+        <a href="https://doi.org/10.1016/j.jallcom.2019.07.247">https://doi.org/10.1016/j.jallcom.2019.07.247</a>
 
 
 <b>[14] The Sodium Antimony Telluridogermanate(III) Na<sub>9</sub>Sb[Ge<sub>2</sub>Te<sub>6</sub>]<sub>2</sub></b> \\
