@@ -5,6 +5,20 @@ permalink: /publications/
 author_profile: true 
 ---
 
+
+
+<b>[10] The Effect of Scandium Ternary Intergrain Precipitates in Al-Containing High-Entropy Alloys</b> \\
+        S. Riva, S. Mehraban, N. P. Lavery, s. Schwarzmüller, O. Oeckler, S. G. R. Brown, K. V. Yusenko \\
+        <i>Entropy</i> <b>2018</b>, <i>20</i>, 488. \\
+        <a href="https://doi.org/10.3390/e20070488">https://doi.org/10.3390/e20070488</a>
+
+
+<b>[9] Cornucopia of Structures in the Pseudobinary System (SnSe)<sub><em>x</em></sub>Bi<sub>2</sub>Se<sub>3</sub>: A Crystal-Chemical Copycat</b> \\
+       F. Heinke, P. Urban, A. Werwein, C. Fraunhofer, T. Rosenthal, S. Schwarzmüller, D. Souchay, F. Fahrnbauer, V. Dyadkin, G. Wagner, O. Oeckler \\
+       <i>Inorg. Chem.</i> <b>2018</b>, <i>57</i>, 4427-4440. \\
+       <a href="https://doi.org/10.1021/acs.inorgchem.8b00105">https://doi.org/10.1021/acs.inorgchem.8b00105</a>
+
+
 <b>[8] Structural variations in indium tin tellurides and their thermoelectric properties</b> \\
        L. Neudert, S. Schwarzmüller, S. Schmitzer, W. Schnick, O. Oeckler \\
        <i>J. Solid State Chem.</i> <b>2018</b>, <i>258</i>, 289-297. \\
@@ -23,7 +37,8 @@ author_profile: true
        <a href="https://doi.org/10.1021/acs.inorgchem.7b02433">https://doi.org/10.1021/acs.inorgchem.7b02433</a>
 
 
-<b>[5] Structural Complexity and Thermoelectric Properties of Quaternary and Quinary Tellurides (Ge<em><sub>x</sub></em>Sn<sub>1&ndash;<em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
+<b>[5] Structural Complexity and Thermoelectric Properties of Quaternary and Quinary Tellurides</b> \\
+    ´  <b>(Ge<em><sub>x</sub></em>Sn<sub>1&ndash;<em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
        L. Neudert, S. Schwarzmüller, M. Scheel, S. Welzmiller, O. Oeckler \\
        <i>Z. Anorg. Allg. Chem.</i> <b>2017</b>, <i>643</i>, 1962-1970. \\
        <a href="https://doi.org/10.1002/zaac.201700337">https://doi.org/10.1002/zaac.201700337</a>
