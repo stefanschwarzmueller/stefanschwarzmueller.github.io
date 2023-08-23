@@ -1,10 +1,11 @@
 ---
 layout: archive
+title: Peer-reviewed publications
 permalink: /publications/
 author_profile: true 
 ---
 
-<h1> Peer-reviewed publications </h1>
+
 
 <br>
 <b>[19] An Unexpected New Member of the Family of Lithium Oxonitridosilicates &ndash; Li<sub>7</sub>Si<sub>2</sub>NO<sub>6</sub></b> \\
@@ -121,9 +122,4 @@ author_profile: true
        <i>Nanoscale</i> <b>2013</b>, <i>5</i>, 11686-11691. \\
        <a href="https://doi.org/10.1039/C3NR01542D">https://doi.org/10.1039/C3NR01542D</a> 
 
-
-
-<h1> Cover Gallery </h1>
-
-<h1> Theses </h1>
 
