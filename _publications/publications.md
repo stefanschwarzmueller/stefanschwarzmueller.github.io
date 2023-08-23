@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+<br>
+
+
 
 <b>[10] The Effect of Scandium Ternary Intergrain Precipitates in Al-Containing High-Entropy Alloys</b> \\
         S. Riva, S. Mehraban, N. P. Lavery, s. Schwarzmüller, O. Oeckler, S. G. R. Brown, K. V. Yusenko \\
@@ -38,7 +41,7 @@ author_profile: true
 
 
 <b>[5] Structural Complexity and Thermoelectric Properties of Quaternary and Quinary Tellurides</b> \\
-    ´  <b>(Ge<em><sub>x</sub></em>Sn<sub>1&ndash;<em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
+    ´  <b>(Ge<em><sub>x</sub></em>Sn<sub><em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
        L. Neudert, S. Schwarzmüller, M. Scheel, S. Welzmiller, O. Oeckler \\
        <i>Z. Anorg. Allg. Chem.</i> <b>2017</b>, <i>643</i>, 1962-1970. \\
        <a href="https://doi.org/10.1002/zaac.201700337">https://doi.org/10.1002/zaac.201700337</a>
