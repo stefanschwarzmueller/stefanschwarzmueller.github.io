@@ -10,7 +10,7 @@ author_profile: true
 <b>[16] Cobalt germanide precipitates indirectly improve the properties of thermoelectric germanium antimony tellurides</b> \\
         D. Souchay, S. Schwarzmüller, H. Becker, S. Kante, G. J. Snyder, A. Leineweber, O. Oeckler \\
         <i>J. Mater. Chem. C</i> <b>2019</b>, <i>7</i>, 11419-11430. \\
-        <a href="https://doi.org/10.1039/C9TC03410B"style="color:#02066F;">https://doi.org/10.1039/C9TC03410B</a>
+        <a href="https://doi.org/10.1039/C9TC03410B" style="color:#02066F;">https://doi.org/10.1039/C9TC03410B</a>
 
 
 <b>[15] Cobalt germanide precipitates indirectly improve the properties of thermoelectric germanium antimony tellurides</b> \\
