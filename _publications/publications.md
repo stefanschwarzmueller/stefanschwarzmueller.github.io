@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Peer-reviewed publications"
+title: "Peer-reviewed publications" 
 permalink: /publications/
 author_profile: true 
 ---
 
 
-
+<br>
 <b>[12] Argyrodite-Type Cu<sub>8</sub>GeSe<sub>6&ndash;<em>x</em></sub>Te<em><sub>x</sub></em>&nbsp;(0 &le;&nbsp;<em>x</em>&nbsp;&le; 2): Temperature-Dependent Crystal Structure and Thermoelectric Properties</b> \\
         S. Schwarzmüller, D. Souchay, D. Günther, A. Gocke, I. Dovgaliuk, S. A. Miller, G. J. Snyder, O. Oeckler \\
         <i>Z. Anorg. Allg. Chem.</i> <b>2018</b>, <i>644</i>, 1915-1922. \\
