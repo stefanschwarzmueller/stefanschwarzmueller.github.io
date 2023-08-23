@@ -6,12 +6,21 @@ author_profile: true
 ---
 
 
-<br>
 
+<b>[12] Argyrodite-Type Cu<sub>8</sub>GeSe<sub>6&ndash;<em>x</em></sub>Te<em><sub>x</sub></em>&nbsp;(0 &le;&nbsp;<em>x</em>&nbsp;&le; 2): Temperature-Dependent Crystal Structure and Thermoelectric Properties</b> \\
+        S. Schwarzmüller, D. Souchay, D. Günther, A. Gocke, I. Dovgaliuk, S. A. Miller, G. J. Snyder, O. Oeckler \\
+        <i>Z. Anorg. Allg. Chem.</i> <b>2018</b>, <i>644</i>, 1915-1922. \\
+        <a href="https://doi.org/10.1002/zaac.201800453">https://doi.org/10.1002/zaac.201800453</a>
+
+
+<b>[11] Tuning the Vacancy Concentration in Lithium Germanium Antimony Tellurides—Influence on Phase Transitions, Lithium Mobility, and Thermoelectric Properties</b> \\
+        S. Schwarzmüller, M. Jakob, M. Nentwig, T. Schröder, A. Kuhn, A. Düvel, P. Heitjans, O. Oeckler \\
+        <i>Chem. Mater.</i> <b>2018</b>, <i>30</i>, 7970-7978. \\
+        <a href="https://doi.org/10.1021/acs.chemmater.8b03609">https://doi.org/10.1021/acs.chemmater.8b03609</a>
 
 
 <b>[10] The Effect of Scandium Ternary Intergrain Precipitates in Al-Containing High-Entropy Alloys</b> \\
-        S. Riva, S. Mehraban, N. P. Lavery, s. Schwarzmüller, O. Oeckler, S. G. R. Brown, K. V. Yusenko \\
+        S. Riva, S. Mehraban, N. P. Lavery, S. Schwarzmüller, O. Oeckler, S. G. R. Brown, K. V. Yusenko \\
         <i>Entropy</i> <b>2018</b>, <i>20</i>, 488. \\
         <a href="https://doi.org/10.3390/e20070488">https://doi.org/10.3390/e20070488</a>
 
@@ -41,7 +50,7 @@ author_profile: true
 
 
 <b>[5] Structural Complexity and Thermoelectric Properties of Quaternary and Quinary Tellurides</b> \\
-    ´  <b>(Ge<em><sub>x</sub></em>Sn<sub><em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
+       <b>(Ge<em><sub>x</sub></em>Sn<sub><em>x</em></sub>)<sub>0.8</sub>(In<em><sub>y</sub></em>Sb<sub>1&ndash;<em>y</em></sub>)<sub>0.13</sub>Te with 0 &le;&nbsp;<em>x</em>,<em>y</em>&nbsp;&le; 1</b> \\
        L. Neudert, S. Schwarzmüller, M. Scheel, S. Welzmiller, O. Oeckler \\
        <i>Z. Anorg. Allg. Chem.</i> <b>2017</b>, <i>643</i>, 1962-1970. \\
        <a href="https://doi.org/10.1002/zaac.201700337">https://doi.org/10.1002/zaac.201700337</a>
