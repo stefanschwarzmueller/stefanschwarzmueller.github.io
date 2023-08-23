@@ -7,6 +7,18 @@ author_profile: true
 
 
 <br>
+<b>[18] Endotaxial Intergrowth of Copper Telluride in GeTe-Rich Germanium Antimony Tellurides Leads to High Thermoelectric Performance</b> \\
+        S. Schwarzmüller, D. Souchay, G. Wagner, P. Kemmesies, D. Günther, M. Bittner, G. Zhang, Z. Ren, A. Feldhoff, G. J. Snyder, O. Oeckler \\
+        <i>Chem. Mater.</i> <b>2022</b>, <i>34</i>, 10025-10039. \\
+        <a href="https://doi.org/10.1016/j.jallcom.2020.154346">https://doi.org/10.1016/j.jallcom.2020.154346</a>
+
+
+<b>[17] Hall-effect Measurements and Transport Properties of Heterostructures in the Model System NiTe<sub>2</sub>-Sn<sub>12</sub>Sb<sub>2</sub>Te<sub>15</sub></b> \\
+        C. Fraunhofer, S. Schwarzmüller, J. L. Gardiner, G. J. Snyder, O. Oeckler \\
+        <i>Z. Anorg. Allg. Chem.</i> <b>2020</b>, <i>646</i>, 1345-1351. \\
+        <a href="https://doi.org/10.1002/zaac.202000224">https://doi.org/10.1002/zaac.202000224</a>
+
+
 <b>[16] Lithium atom mobility in lithium germanium antimony tellurides elucidated by neutron diffraction and quasielastic neutron scattering</b> \\
         S. Schwarzmüller, M. Hoelzel, K. Fritsch, Z. Evenson, K. Habicht, O. Oeckler \\
         <i>J. Alloys Compd.</i> <b>2020</b>, <i>827</i>, 154346. \\
