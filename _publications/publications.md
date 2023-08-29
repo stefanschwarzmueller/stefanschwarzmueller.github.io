@@ -17,7 +17,7 @@ author_profile: true
 <b>[18] Endotaxial Intergrowth of Copper Telluride in GeTe-Rich Germanium Antimony Tellurides Leads to High Thermoelectric Performance</b> \\
         S. Schwarzmüller, D. Souchay, G. Wagner, P. Kemmesies, D. Günther, M. Bittner, G. Zhang, Z. Ren, A. Feldhoff, G. J. Snyder, O. Oeckler \\
         <i>Chem. Mater.</i> <b>2022</b>, <i>34</i>, 10025-10039. \\
-        <a href="https://doi.org/10.1016/j.jallcom.2020.154346">https://doi.org/10.1016/j.jallcom.2020.154346</a>
+        <a href="https://doi.org/10.1021/acs.chemmater.2c02477">https://doi.org/10.1021/acs.chemmater.2c02477</a>
 
 
 <b>[17] Hall-effect Measurements and Transport Properties of Heterostructures in the Model System NiTe<sub>2</sub>-Sn<sub>12</sub>Sb<sub>2</sub>Te<sub>15</sub></b> \\
