@@ -10,7 +10,7 @@ author_profile: true
 <br>
 <b>[19] An Unexpected New Member of the Family of Lithium Oxonitridosilicates &ndash; Li<sub>7</sub>Si<sub>2</sub>NO<sub>6</sub></b> \\
         K. M. Rießbeck, M. Seibald, S. Schwarzmüller, D. Baumann, H. Huppertz \\
-        <i>Eur. J. Inorg. Chem.</i> <b>2023</b>, <i>26</i> e202300304. \\
+        <i>Eur. J. Inorg. Chem.</i> <b>2023</b>, <i>26</i>, e202300304. \\
         <a href="https://doi.org/10.1002/ejic.202300304">https://doi.org/10.1002/ejic.202300304</a>
 
 
