@@ -8,6 +8,12 @@ author_profile: true
 
 
 <br>
+<b>[20] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
+        S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
+        <i>Chem. Eur. J.</i> <b>2023</b>, e202302565. \\
+        <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a>
+
+
 <b>[19] An Unexpected New Member of the Family of Lithium Oxonitridosilicates &ndash; Li<sub>7</sub>Si<sub>2</sub>NO<sub>6</sub></b> \\
         K. M. Rießbeck, M. Seibald, S. Schwarzmüller, D. Baumann, H. Huppertz \\
         <i>Eur. J. Inorg. Chem.</i> <b>2023</b>, <i>26</i>, e202300304. \\
