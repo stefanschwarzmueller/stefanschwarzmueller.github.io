@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true 
 ---
 
+<b>
+<b>[21] <h1>High-pressure/high-temperature synthesis of Nd<sub>3</sub>B<sub>5</sub>O<sub>11</sub>(OH)<sub>2</sub></h1></b> \\
+        T. A. Teichtmeister, A. H. Bernhardt, S. Schwarzmüller, K. Wurst, H. Huppertz \\
+        <i>Z. anorg. allg. Chem.</i> <b>2023</b>, e202300210. \\
+        <a href="https://doi.org/10.1002/zaac.202300210">https://doi.org/10.1002/zaac.202300210</a>
 
 
-<br>
 <b>[20] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
         <i>Chem. Eur. J.</i> <b>2023</b>, e202302565. \\
