@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true 
 ---
 
-<b>
+
 <b>[21] High-pressure/high-temperature synthesis of Nd<sub>3</sub>B<sub>5</sub>O<sub>11</sub>(OH)<sub>2</sub></b> \\
         T. A. Teichtmeister, A. H. Bernhardt, S. Schwarzmüller, K. Wurst, H. Huppertz \\
         <i>Z. anorg. allg. Chem.</i> <b>2023</b>, e202300210. \\
