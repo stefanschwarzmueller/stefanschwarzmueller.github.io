@@ -15,16 +15,16 @@ author_profile: true
         <i>Z. Kristallogr.</i> <b>2023</b>, accepted manuscript. 
         
 
-<b>[21] High-pressure/high-temperature synthesis of Nd<sub>3</sub>B<sub>5</sub>O<sub>11</sub>(OH)<sub>2</sub></b> \\
-        T. A. Teichtmeister, A. H. Bernhardt, S. Schwarzmüller, K. Wurst, H. Huppertz \\
-        <i>Z. Anorg. Allg. Chem.</i> <b>2023</b>, e202300210. \\
-        <a href="https://doi.org/10.1002/zaac.202300210">https://doi.org/10.1002/zaac.202300210</a>
-
-
-<b>[20] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
+<b>[21] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
         <i>Chem. Eur. J.</i> <b>2023</b>, e202302565. \\
         <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a>
+
+
+<b>[20] High-pressure/high-temperature synthesis of Nd<sub>3</sub>B<sub>5</sub>O<sub>11</sub>(OH)<sub>2</sub></b> \\
+        T. A. Teichtmeister, A. H. Bernhardt, S. Schwarzmüller, K. Wurst, H. Huppertz \\
+        <i>Z. Anorg. Allg. Chem.</i> <b>2023</b>, <i>649</i>, e202300210. \\
+        <a href="https://doi.org/10.1002/zaac.202300210">https://doi.org/10.1002/zaac.202300210</a>
 
 
 <b>[19] An Unexpected New Member of the Family of Lithium Oxonitridosilicates &ndash; Li<sub>7</sub>Si<sub>2</sub>NO<sub>6</sub></b> \\
