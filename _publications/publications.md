@@ -18,7 +18,7 @@ author_profile: true
 <b>[21] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
         <i>Chem. Eur. J.</i> <b>2023</b>, e202302565. \\
-        <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a>
+        <a href="https://doi.org/10.1002/chem.202302565" style="color: #080dcc;">ttps://doi.org/10.1002/chem.202302565</a>
 
 
 <b>[20] High-pressure/high-temperature synthesis of Nd<sub>3</sub>B<sub>5</sub>O<sub>11</sub>(OH)<sub>2</sub></b> \\
