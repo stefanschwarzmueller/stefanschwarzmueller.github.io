@@ -2,7 +2,20 @@
 layout: archive
 title: Peer-reviewed publications
 permalink: /publications/
-author_profile: true 
+author_profile: true
+
+* {
+     color: black !important;
+     background-color: white !important;
+     background-image: none !important;
+}
+
+a:link {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #06c;
+}
+
 ---
 
 <b>[23] Pressure-induced dislocations and their influence on ionic transport in Li<sup>+</sup> conducting argyrodites</b> \\
