@@ -4,11 +4,11 @@ title: Peer-reviewed publications
 permalink: /publications/
 author_profile: true
 
-* {
-     color: black !important;
-     background-color: white !important;
-     background-image: none !important;
-}
+
+color: black 
+background-color: white 
+background-image: none 
+
 
 a:link {
     font-weight: bold;
