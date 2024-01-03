@@ -12,7 +12,8 @@ author_profile: true
 
 <b>[22] High-pressure/high-temperature synthesis of the first walstromite-analogue borate Tm<sub>2</sub>CrB<sub>3</sub>O<sub>9</sub></b> \\
         T. A. Teichtmeister, S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
-        <i>Z. Kristallogr.</i> <b>2024</b>, accepted manuscript. 
+        <i>Z. Kristallogr.</i> <b>2023</b>, accepted manuscript.
+        <a href="https://doi.org/10.1515/zkri-2023-0046">https://doi.org/10.1515/zkri-2023-0046</a>
         
 
 <b>[21] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
