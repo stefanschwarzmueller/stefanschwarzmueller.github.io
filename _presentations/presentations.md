@@ -5,26 +5,45 @@ permalink: /presentations/
 author_profile: true
 ---
 
-
-<b>[7] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
-       O. Oeckler, F. Nietschke, S. Schwarzmüller, d. Souchay \\
-       <i>XXIV IUCr Congress</i>, Hyderabad (India) <b>2017</b>. \\
-       <i>Acta Cryst.</i>, <b>2017</b>, <i>A73</i>, C1353. \\
-       <a href="https://doi.org/10.1107/S2053273317082213">https://doi.org/10.1107/S2053273317082213</a>
-
-
-<b>[6] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
-       O. Oeckler, P. Heitjans, S. Schwarzmüller, A. Düvel, L. Schmohl, M. Jakob, A. Kuhn, M. Nentwig, T. Schröder \\
-       <i>30th European Crystallographic Meeting, ECM 30</i>, Basel (Switzerland) <b>2016</b>. \\
-       <i>Acta Cryst.</i>, <b>2016</b>, <i>A72</i>, s79-s80. \\
-       <a href="https://doi.org/10.1107/S205327331609882X">https://doi.org/10.1107/S205327331609882X</a>
+<b>[11] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
+        O. Oeckler, F. Nietschke, S. Schwarzmüller, d. Souchay \\
+        <i>XXIV IUCr Congress</i>, Hyderabad (India) <b>2017</b>. \\
+        <i>Acta Cryst.</i>, <b>2017</b>, <i>A73</i>, C1353. \\
+        <a href="https://doi.org/10.1107/S2053273317082213">https://doi.org/10.1107/S2053273317082213</a>
 
 
-<b>[5] Thermoelectric properties of Cu-doped germanium antimony tellurides</b> \\
+<b>[10] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
+        O. Oeckler, P. Heitjans, S. Schwarzmüller, A. Düvel, L. Schmohl, M. Jakob, A. Kuhn, M. Nentwig, T. Schröder \\
+        <i>30th European Crystallographic Meeting, ECM 30</i>, Basel (Switzerland) <b>2016</b>. \\
+        <i>Acta Cryst.</i>, <b>2016</b>, <i>A72</i>, s79-s80. \\
+        <a href="https://doi.org/10.1107/S205327331609882X">https://doi.org/10.1107/S205327331609882X</a>
+
+
+<b>[9] Thermoelectric properties of Cu-doped germanium antimony tellurides</b> \\
        S. Schwarzmüller, D. Souchay, G. Wagner, O. Oeckler \\
        <i>29th European Crystallographic Meeting, ECM 29</i>, Rovinj (Croatia) <b>2015</b>. \\
        <i>Acta Cryst.</i>, <b>2015</b>, <i>A71</i>, s72. \\
        <a href="https://doi.org/10.1107/S2053273315098939">https://doi.org/10.1107/S2053273315098939</a>
+
+
+<b>[8] Nanostructured thermoelectric materials in the system Ge/Sb/Te with skutterudite-tpye and copper telluride precipitates</b> \\
+       O. Oeckler, F. Fahrnbauer, S. Schwarzmüller, T. Rosenthal, G. Wagner \\
+       <i>5th EuCheMS Chemistry Congress</i>, Istanbul (Turkey) <b>2014</b>.
+
+
+<b>[7] Multinary chalcogenides with tetrahedral and octahedral coordination containing main group and d-block elements</b> \\
+       S. Welzmiller, H. Hennersdorf, F. Fahrnbauer, D. Souchay, S. Schwarzmüller, O. Oeckler \\
+       <i>12th European Conference on Thermoelectrics, ECT</i>, Madrid (Spain) <b>2014</b>.
+
+
+<b>[6] Precipitates in Ge-Sb-Te and Sn-Bi-Se materials as nanostructured thermoelectrics</b> \\
+       F. Fahrnbauer, S. Schwarzmüller, P. Urban, N. Giesbrecht, C. Fraunhofer, G. Wagner, G. J. Snyder, O. Oeckler \\
+       <i>33th International Conference on Thermoelectrics, ICT</i>, Nashville (USA) <b>2014</b>.
+
+
+<b>[5] Tuning real-structure effects and physical properties of germanium antimony tellurides by substitution</b> \\
+       S. Welzmiller, T. Rosenthal, T. Schröder, F. Schleife, S. Schwarzmüller, L. Neudert, P. Ganter, P. Huth, B. Kersting, O. Oeckler \\
+       <i>14th European Conference on Solid State Chemistry</i>, Bordeaux (France) <b>2013</b>.
 
 
 <b>[4] Optimizing thermoelectric properties of germanium antimony tellurides in different temperature ranges by substitution</b> \\
