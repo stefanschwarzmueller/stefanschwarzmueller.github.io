@@ -29,7 +29,7 @@ author_profile: true
 
 <b>[4] Optimizing thermoelectric properties of germanium antimony tellurides in different temperature ranges by substitution</b> \\
        S. Welzmiller, T. Rosenthal, T. Schröder, F. Schleife, S. Schwarzmüller, L. Neudert, K. Nimmrich, P. Ganter, P. Huth, B. Kersting, O. Oeckler \\
-       <i>11th European Conference on Thermoelectrics, ECT</i>, Noordwijk (Netherlands) <b>2013</b>. \\
+       <i>11th European Conference on Thermoelectrics, ECT</i>, Noordwijk (Netherlands) <b>2013</b>.
       
 
 <b>[3] Ternary metastable rocksalt-type tellurides</b> \\
@@ -39,9 +39,9 @@ author_profile: true
        <a href="https://doi.org/10.1107/S0108767312098182">https://doi.org/10.1107/S0108767312098182</a>
 
 
-<b>[2] Influence of Sn, In and Li substitution on the structure and the thermoelectric properties of (GeTe)<sub>n</sub> (Sb<sub>2</sub>Te<sub>3</sub>) (1 &lt; n &lt; 20)</b> \\
+<b>[2] Influence of Sn, In and Li substitution on the structure and the thermoelectric properties of (GeTe)<sub>n</sub>(Sb<sub>2</sub>Te<sub>3</sub>) (1&lt;n&lt;20)</b> \\
        T. Schröder, T. Rosenthal, S. Welzmiller, S. Schwarzmüller, C. Stiewe, O. Oeckler \\
-       <i>31st International & 10th European Conference on Thermoelectrics, ICT/ECT</i>, Aalborg (Denmark) <b>2012</b>. \\
+       <i>31st International & 10th European Conference on Thermoelectrics, ICT/ECT</i>, Aalborg (Denmark) <b>2012</b>.
        
 
 <b>[1] Kubische Telluride von Antimon und Indium mit Silber oder Lithium </b> \\
