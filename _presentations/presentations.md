@@ -8,21 +8,21 @@ author_profile: true
 <b>[11] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
         O. Oeckler, F. Nietschke, S. Schwarzmüller, d. Souchay \\
         <i>XXIV IUCr Congress</i>, Hyderabad (India) <b>2017</b>. \\
-        <i>Acta Cryst.</i>, <b>2017</b>, <i>A73</i>, C1353. \\
+        <i>Acta Cryst.</i> <b>2017</b>, <i>A73</i>, C1353. \\
         <a href="https://doi.org/10.1107/S2053273317082213">https://doi.org/10.1107/S2053273317082213</a>
 
 
 <b>[10] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
         O. Oeckler, P. Heitjans, S. Schwarzmüller, A. Düvel, L. Schmohl, M. Jakob, A. Kuhn, M. Nentwig, T. Schröder \\
         <i>30th European Crystallographic Meeting, ECM 30</i>, Basel (Switzerland) <b>2016</b>. \\
-        <i>Acta Cryst.</i>, <b>2016</b>, <i>A72</i>, s79-s80. \\
+        <i>Acta Cryst.</i> <b>2016</b>, <i>A72</i>, s79-s80. \\
         <a href="https://doi.org/10.1107/S205327331609882X">https://doi.org/10.1107/S205327331609882X</a>
 
 
 <b>[9] Thermoelectric properties of Cu-doped germanium antimony tellurides</b> \\
        S. Schwarzmüller, D. Souchay, G. Wagner, O. Oeckler \\
        <i>29th European Crystallographic Meeting, ECM 29</i>, Rovinj (Croatia) <b>2015</b>. \\
-       <i>Acta Cryst.</i>, <b>2015</b>, <i>A71</i>, s72. \\
+       <i>Acta Cryst.</i> <b>2015</b>, <i>A71</i>, s72. \\
        <a href="https://doi.org/10.1107/S2053273315098939">https://doi.org/10.1107/S2053273315098939</a>
 
 
@@ -54,7 +54,7 @@ author_profile: true
 <b>[3] Ternary metastable rocksalt-type tellurides</b> \\
        O. Oeckler, T. Schröder, T. Rosenthal, S. Schwarzmüller, C. Petermayer, D. Souchay, S. Grott \\
        <i>27th European Crystallographic Meeting, ECM 27</i>, Bergen (Norway) <b>2012</b>. \\
-       <i>Acta Cryst.</i>, <b>2012</b>, <i>A68</i>, s93. \\
+       <i>Acta Cryst.</i> <b>2012</b>, <i>A68</i>, s93. \\
        <a href="https://doi.org/10.1107/S0108767312098182">https://doi.org/10.1107/S0108767312098182</a>
 
 
