@@ -8,6 +8,7 @@ author_profile: true
 <b>[23] Pressure-induced dislocations and their influence on ionic transport in Li<sup>+</sup> conducting argyrodites</b> \\
         V. Faka, M. Agne, M. Lange, D. Daisenberger, B. Wankmiller, S. Schwarzmüller, H. Huppertz, O. Maus, B. Helm, T. Boeger, J. Hartel, J. Gerdes, J. Molaison, G. Kieslich, M. R. Hansen, W. Zeier \\
         <i>J. Am. Chem. Soc.</i> <b>2024</b>, accepted manuscript.
+        <a href="https://doi.org/10.1021/jacs.3c12323">https://doi.org/10.1021/jacs.3c12323</a>
         
 
 <b>[22] High-pressure/high-temperature synthesis of the first walstromite-analogue borate Tm<sub>2</sub>CrB<sub>3</sub>O<sub>9</sub></b> \\
