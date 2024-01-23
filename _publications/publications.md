@@ -17,7 +17,7 @@ author_profile: true
         <a href="https://doi.org/10.1515/zkri-2023-0046">https://doi.org/10.1515/zkri-2023-0046</a>
         
 
-<b>[21] Pressure Assisted Synthesis of HighlyCCrystallineC1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
+<b>[21] Pressure Assisted Synthesis of Highly Crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
         <i>Chem. Eur. J.</i> <b>2024</b>, <i>30</i>, e202302565. \\
         <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a>
