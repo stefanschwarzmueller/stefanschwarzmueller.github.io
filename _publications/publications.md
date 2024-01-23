@@ -5,21 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[23] Pressure-induced dislocations and their influence on ionic transport in Li<sup>+</sup> conducting argyrodites</b> \\
-        V. Faka, M. Agne, M. Lange, D. Daisenberger, B. Wankmiller, S. Schwarzmüller, H. Huppertz, O. Maus, B. Helm, T. Boeger, J. Hartel, J. Gerdes, J. Molaison, G. Kieslich, M. R. Hansen, W. Zeier \\
-        <i>J. Am. Chem. Soc.</i> <b>2024</b>, accepted manuscript. \\
+<b>[23] Pressure-Induced Dislocations and Their Influence on Ionic Transport in Li<sup>+</sup> Conducting Argyrodites</b> \\
+        V. Faka, M. T. Agne, M. Lange, D. Daisenberger, B. Wankmiller, S. Schwarzmüller, H. Huppertz, O. Maus, B. Helm, T. Boeger, J. Hartel, J. Gerdes, J. Molaison, G. Kieslich, M. R. Hansen, W. Zeier \\
+        <i>J. Am. Chem. Soc.</i> <b>2024</b>, <i>146</i>, 1710-1721. \\
         <a href="https://doi.org/10.1021/jacs.3c12323">https://doi.org/10.1021/jacs.3c12323</a>
         
 
 <b>[22] High-pressure/high-temperature synthesis of the first walstromite-analogue borate Tm<sub>2</sub>CrB<sub>3</sub>O<sub>9</sub></b> \\
         T. A. Teichtmeister, S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
-        <i>Z. Kristallogr.</i> <b>2023</b>, accepted manuscript. \\
+        <i>Z. Kristallogr.</i> <b>2024</b>, accepted manuscript. \\
         <a href="https://doi.org/10.1515/zkri-2023-0046">https://doi.org/10.1515/zkri-2023-0046</a>
         
 
-<b>[21] Pressure assisted synthesis of highly crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
+<b>[21] Pressure Assisted Synthesis of HighlyCCrystallineC1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
-        <i>Chem. Eur. J.</i> <b>2023</b>, e202302565. \\
+        <i>Chem. Eur. J.</i> <b>2024</b>, <i>30</i>, e202302565. \\
         <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a>
 
 
