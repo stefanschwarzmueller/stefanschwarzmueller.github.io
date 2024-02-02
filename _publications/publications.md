@@ -8,7 +8,7 @@ author_profile: true
 <b>[23] Pressure-Induced Dislocations and Their Influence on Ionic Transport in Li<sup>+</sup> Conducting Argyrodites</b> \\
         V. Faka, M. T. Agne, M. Lange, D. Daisenberger, B. Wankmiller, S. Schwarzmüller, H. Huppertz, O. Maus, B. Helm, T. Boeger, J. Hartel, J. Gerdes, J. Molaison, G. Kieslich, M. R. Hansen, W. Zeier \\
         <i>J. Am. Chem. Soc.</i> <b>2024</b>, <i>146</i>, 1710-1721. \\
-        <a href="https://doi.org/10.1021/jacs.3c12323">https://doi.org/10.1021/jacs.3c12323</a>
+        <a href="https://doi.org/10.1021/jacs.3c12323">https://doi.org/10.1021/jacs.3c12323</a> <a href="Pressemitteilung">https://www.uibk.ac.at/de/newsroom/2023/festkorper-ionenleiter-unter-druck/</a>
         
 
 <b>[22] High-pressure/high-temperature synthesis of the first walstromite-analogue borate Tm<sub>2</sub>CrB<sub>3</sub>O<sub>9</sub></b> \\
@@ -20,7 +20,7 @@ author_profile: true
 <b>[21] Pressure Assisted Synthesis of Highly Crystalline 1T&rsquo;&rsquo;-Li<sub><em>x</em></sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, K. Wurst, G. Heymann, H. Huppertz \\
         <i>Chem. Eur. J.</i> <b>2024</b>, <i>30</i>, e202302565. \\
-        <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a>
+        <a href="https://doi.org/10.1002/chem.202302565">https://doi.org/10.1002/chem.202302565</a> <a href="Cover Picture">https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202304096</a>
 
 
 <b>[20] High-pressure/high-temperature synthesis of Nd<sub>3</sub>B<sub>5</sub>O<sub>11</sub>(OH)<sub>2</sub></b> \\
