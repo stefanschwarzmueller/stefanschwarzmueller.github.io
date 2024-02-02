@@ -5,18 +5,38 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<b>[17] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
+<b>[21] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
         O. Oeckler, F. Nietschke, S. Schwarzmüller, D. Souchay \\
         <i>XXIV IUCr Congress</i>, Hyderabad (India) <b>2017</b>. \\
         <i>Acta Cryst.</i> <b>2017</b>, <i>A73</i>, C1353. \\
         <a href="https://doi.org/10.1107/S2053273317082213">https://doi.org/10.1107/S2053273317082213</a>
 
 
-<b>[16] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
+<b>[20] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
         O. Oeckler, P. Heitjans, S. Schwarzmüller, A. Düvel, L. Schmohl, M. Jakob, A. Kuhn, M. Nentwig, T. Schröder \\
         <i>30th European Crystallographic Meeting, ECM 30</i>, Basel (Switzerland) <b>2016</b>. \\
         <i>Acta Cryst.</i> <b>2016</b>, <i>A72</i>, s79-s80. \\
         <a href="https://doi.org/10.1107/S205327331609882X">https://doi.org/10.1107/S205327331609882X</a>
+
+
+<b>[19] Heterostructures of transition metal tellurides and Sn/Sb/Te or Ge/Sb/Te thermoelectric materials</b> \\
+        S. Schwarzmüller, C. Fraunhofer, F. Nietschke, D. Souchay, O. Oeckler \\
+        <i>35th International Conference on Thermoelectrics</i>, Wuhan (P.R. China) <b>2016</b>.
+
+
+<b>[18] Structures and thermoelectric properties of heterostructured multinary antimony tellurides</b> \\
+        S. Schwarzmüller, O. Oeckler \\
+        <i>4th German-Korean joint workshop on thermoelectric materials</i>, Daejeon (South Korea) <b>2016</b>.
+
+
+<b>[17] Thermoelektrische Eigenschaften von Zinnantimonchalcogeniden</b> \\
+        F. Nietschke, S. Schwarzmüller, C. Fraunhofer, L. Schmohl, O. Oeckler \\
+        <i>Hirschegg-Seminar für Festkörperchemie</i>, Hirschegg (Austria) <b>2016</b>.
+
+
+<b>[16] Heterostructured multinary thallium tellurides</b> \\
+        F. Heinke, L. Eisenburger, S. Schwarzmüller, F. Nietschke, O. Oeckler \\
+        <i>Hirschegg-Seminar für Festkörperchemie</i>, Hirschegg (Austria) <b>2016</b>.
 
 
 <b>[15] Structure analysis and thermoelectric properties of Ge/Sb/Te materials with CoSb<sub>3</sub> precipitates</b> \\
