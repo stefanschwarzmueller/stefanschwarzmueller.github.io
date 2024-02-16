@@ -5,8 +5,6 @@ permalink: /presentations/
 author_profile: true
 ---
 
-test
-
 <b>[21] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
         O. Oeckler, F. Nietschke, S. Schwarzmüller, D. Souchay \\
         <i>XXIV IUCr Congress</i>, Hyderabad (India) <b>2017</b>. \\
