@@ -5,18 +5,52 @@ permalink: /presentations/
 author_profile: true
 ---
 
-<b>[21] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
+<b>[28] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
         O. Oeckler, F. Nietschke, S. Schwarzmüller, D. Souchay \\
         <i>XXIV IUCr Congress</i>, Hyderabad (India) <b>2017</b>. \\
         <i>Acta Cryst.</i> <b>2017</b>, <i>A73</i>, C1353. \\
         <a href="https://doi.org/10.1107/S2053273317082213">https://doi.org/10.1107/S2053273317082213</a>
 
 
-<b>[20] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
+<b>[27] Germaniumantimontelluride mit Alkalimetallen und Leerstellen - Thermoelektrik und Atommobilität</b> \\
+        S. Schwarzmüller, M. Jakob, V. H.-T. Tran, P. Heitjans, M Hoelzel, O. Oeckler  \\
+        <i>Hirschegg-Seminar für Festkörperchemie</i>, Hirschegg (Austria) <b>2017</b>.
+
+
+<b>[26] Thermoelectri properties and atom mobility of argyrodite-type Cu<sub>8</sub>GeSe<sub>4</sub>Te<sub>2</sub></b> \\
+        S. Schwarzmüller, D. Souchay, D. Günther, A. Gocke, I. Dovgaliuk, O. Oeckler \\
+        <i>25th Annual Meeting of the German Crystallographic Society (DGK)</i>, Karlsruhe (Germany) <b>2017</b>.
+
+
+<b>[25] The influence of mobile monovalent ions on structures and properties of multinary thermoelectric tellurides</b> \\
         O. Oeckler, P. Heitjans, S. Schwarzmüller, A. Düvel, L. Schmohl, M. Jakob, A. Kuhn, M. Nentwig, T. Schröder \\
         <i>30th European Crystallographic Meeting, ECM 30</i>, Basel (Switzerland) <b>2016</b>. \\
         <i>Acta Cryst.</i> <b>2016</b>, <i>A72</i>, s79-s80. \\
         <a href="https://doi.org/10.1107/S205327331609882X">https://doi.org/10.1107/S205327331609882X</a>
+
+<b>[24] Enhancing the Performance of Chalcogenide Thermoelectric Materials</b> \\
+        G. R. Blake, A. Kumar, L. Shaabani, P. A. Vermeulen, B. J. Kooi, J. Rao, J.-W. Bos, S. Schwarzmüller, O. Oeckler \\
+        <i>4th International Conference on Advanced Materials Science and Technology (ICAMST)</i>, Malang (Indonesia) <b>2016</b>.i
+
+
+<b>[23] Structure and thermoelectric properties of composite materials in the systems Cu/Ge/Sb/Se/Te</b> \\
+        D. Souchay, S. Schwarzmüller, D. Günther, A. Gocke, G. Wagner, O. Oeckler \\
+        <i>20th International Conference on Ternary and Multinary Compounds</i>, Halle (Germany) <b>2016</b>.
+
+
+<b>[22] Ge/Sb/Te compounds with preciptiates as thermoelectric heterostructures</b> \\
+        C. Fraunhofer, F. Fahrnbauer, D. Souchay, S. Schwarzmüller, G. Wagner, O. Oeckler \\
+        <i>26th Conference of the Condensed Matter Division (CMD26) of the European Physical Society (EPS)</i>, Groningen (The Netherlands) <b>2016</b>.
+
+
+<b>[21] Heterostructured thermoelectric materials</b> \\
+        S. Schwarzmüller, O. Oeckler \\
+        <i>SUNY Binghamton Science Tour</i>, Leipzig (Germany) <b>2016</b>.
+
+
+<b>[20] Phase relations and thermoelectric properties of TAGS materials</b> \\
+        G. R. Blake, A. Kumar, P. A. Vermeulen, B. J. Kooi, J.-W. Bos, S. Popuri, S. Schwarzmüller, O. Oeckler \\
+        <i>35th International Conference on Thermoelectrics</i>, Wuhan (P.R. China) <b>2016</b>.
 
 
 <b>[19] Heterostructures of transition metal tellurides and Sn/Sb/Te or Ge/Sb/Te thermoelectric materials</b> \\
