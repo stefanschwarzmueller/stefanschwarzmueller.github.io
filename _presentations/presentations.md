@@ -17,7 +17,7 @@ author_profile: true
         <i>Hirschegg-Seminar für Festkörperchemie</i>, Hirschegg (Austria) <b>2017</b>.
 
 
-<b>[26] Thermoelectri properties and atom mobility of argyrodite-type Cu<sub>8</sub>GeSe<sub>4</sub>Te<sub>2</sub></b> \\
+<b>[26] Thermoelectric properties and atom mobility of argyrodite-type Cu<sub>8</sub>GeSe<sub>4</sub>Te<sub>2</sub></b> \\
         S. Schwarzmüller, D. Souchay, D. Günther, A. Gocke, I. Dovgaliuk, O. Oeckler \\
         <i>25th Annual Meeting of the German Crystallographic Society (DGK)</i>, Karlsruhe (Germany) <b>2017</b>.
 
@@ -30,7 +30,7 @@ author_profile: true
 
 <b>[24] Enhancing the Performance of Chalcogenide Thermoelectric Materials</b> \\
         G. R. Blake, A. Kumar, L. Shaabani, P. A. Vermeulen, B. J. Kooi, J. Rao, J.-W. Bos, S. Schwarzmüller, O. Oeckler \\
-        <i>4th International Conference on Advanced Materials Science and Technology (ICAMST)</i>, Malang (Indonesia) <b>2016</b>.i
+        <i>4th International Conference on Advanced Materials Science and Technology (ICAMST)</i>, Malang (Indonesia) <b>2016</b>.
 
 
 <b>[23] Structure and thermoelectric properties of composite materials in the systems Cu/Ge/Sb/Se/Te</b> \\
@@ -40,7 +40,8 @@ author_profile: true
 
 <b>[22] Ge/Sb/Te compounds with preciptiates as thermoelectric heterostructures</b> \\
         C. Fraunhofer, F. Fahrnbauer, D. Souchay, S. Schwarzmüller, G. Wagner, O. Oeckler \\
-        <i>26th Conference of the Condensed Matter Division (CMD26) of the European Physical Society (EPS)</i>, Groningen (The Netherlands) <b>2016</b>.
+        <i>26th Conference of the Condensed Matter Division (CMD26) of the European Physical Society (EPS)</i>, \\
+        Groningen (The Netherlands) <b>2016</b>.
 
 
 <b>[21] Heterostructured thermoelectric materials</b> \\
