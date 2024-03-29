@@ -1,9 +1,50 @@
 ---
 layout: archive
-title: Under construction...
+title: Oral Presentations
 permalink: /presentations/
 author_profile: true
 ---
+
+
+<b>[36] Pressure assisted synthesis of highly crystalline Li<sub>x</sub>MoS<sub>2</sub></b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>32nd Annual Meeting of the German Crystallographic Society (DGK)</i>, Bayreuth (Germany) <b>2024</b>.
+
+
+<b>[35] Neues von und mit LiMoS<sub>2</sub></b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>57. Hemdsärmelkolloquium, HÄKO</i>, Stuttgart (Germany) <b>2024</b>.
+
+
+<b>[34] Lithium-Ion conductors forged by giant forces</b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>7th Obergurgl-Seminar Solid-State Chemistry</i>, Obergurgl (Austria) <b>2024</b>.
+
+
+<b>[33] Anisotrope Ionenleiter</b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>50. Hirschegg-Seminar Festkörperchemie</i>, Hirschegg (Austria) <b>2023</b>.
+
+
+<b>[32] Schichtsalat - Hochdrucksynthese von LiMoS<sub>2</sub></b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>56. Hemdsärmelkolloquium, HÄKO</i>, Dresden (Germany) <b>2023</b>.
+
+
+<b>[31] About messy and properly-layered Sandwiches</b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>6th Obergurgl-Seminar Solid-State Chemistry</i>, Obergurgl (Austria) <b>2023</b>.
+
+
+<b>[30] CuSbSe<sub>2</sub> unter Hochdruck</b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>49. Hirschegg-Seminar Festkörperchemie</i>, Hirschegg (Austria) <b>2022</b>.
+
+
+<b>[29] Multinary Chalcogenides with Li, Na and Cu: Thermoelectric properties and ionic conductivity - Ambient-pressure and High-pressure</b> \\
+        S. Schwarzmüller  \\
+        <i>Universität Münster</i>, Münster (Germany) <b>2022</b>.
+
 
 <b>[28] Nanostructures in GeTe-rich materials: substitution, defects, thermoelectricity</b> \\
         O. Oeckler, F. Nietschke, S. Schwarzmüller, D. Souchay \\
