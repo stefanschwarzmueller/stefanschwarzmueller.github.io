@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[25] <sup>4</sup>P-Pavonite-type Cu<sub>1.8</sub>Sb<sub>5.4</sub>Se<sub>9</sub>: A One-Dimensional Copper Ion Conductor</b> \\
+        S. Schwarzmüller, M. Amsler, S. Goedecker, G. Heymann, H. Huppertz \\
+        <i>manuscript in preaparation</i> <b>2024</b> \\
+        
+
+<b>[24] High-pressure/high-temperature synthesis of ErCd<sub>2</sub>B<sub>7</sub>O<sub>13</sub>(BO(OH)<sub>3</sub>): A non-centrosymmetric erbium cadmium borate</b> \\
+        T. A. Teichtmeister, S. Schwarzmüller, H. Huppertz \\
+        <i>submitted manuscript</i> <b>2024</b> \\
+        
+
 <b>[23] Pressure-Induced Dislocations and Their Influence on Ionic Transport in Li<sup>+</sup> Conducting Argyrodites</b> \\
         V. Faka, M. T. Agne, M. Lange, D. Daisenberger, B. Wankmiller, S. Schwarzmüller, H. Huppertz, O. Maus, B. Helm, T. Boeger, J. Hartel, J. Gerdes, J. Molaison, G. Kieslich, M. R. Hansen, W. Zeier \\
         <i>J. Am. Chem. Soc.</i> <b>2024</b>, <i>146</i>, 1710-1721. \\
