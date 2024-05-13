@@ -12,7 +12,8 @@ author_profile: true
 
 <b>[24] High-pressure/high-temperature synthesis of ErCd<sub>2</sub>B<sub>7</sub>O<sub>13</sub>(BO(OH)<sub>3</sub>): A non-centrosymmetric erbium cadmium borate</b> \\
         T. A. Teichtmeister, S. Schwarzmüller, H. Huppertz \\
-        <i>submitted manuscript</i> <b>2024</b> 
+        <i>Eur. J. Inorg. Chem.</i> <b>2024</b> 
+        <a href="https://doi.org/10.1002/ejic.202400211">https://doi.org/10.1002/ejic.202400211</a>
         
 
 <b>[23] Pressure-Induced Dislocations and Their Influence on Ionic Transport in Li<sup>+</sup> Conducting Argyrodites</b> \\
