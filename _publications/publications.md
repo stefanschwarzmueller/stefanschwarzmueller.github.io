@@ -7,13 +7,13 @@ author_profile: true
 
 <b>[25] <sup>4</sup>P-Pavonite-type Cu<sub>1.8</sub>Sb<sub>5.4</sub>Se<sub>9</sub>: A One-Dimensional Copper Ion Conductor</b> \\
         S. Schwarzmüller, M. Amsler, S. Goedecker, H. Huppertz \\
-        <i>submitted manuscript</i> <b>2024</b>
+        <i>submitted manuscript</i> <b>2024</b> \\
         <a href="https://dx.doi.org/10.2139/ssrn.4852905">https://dx.doi.org/10.2139/ssrn.4852905</a>
         
 
 <b>[24] High-pressure/high-temperature synthesis of ErCd<sub>2</sub>B<sub>7</sub>O<sub>13</sub>(BO(OH)<sub>3</sub>): A non-centrosymmetric erbium cadmium borate</b> \\
         T. A. Teichtmeister, S. Schwarzmüller, H. Huppertz \\
-        <i>Eur. J. Inorg. Chem.</i> <b>2024</b> \\
+        <i>Eur. J. Inorg. Chem.</i> <b>2024</b>, e202400211. \\
         <a href="https://doi.org/10.1002/ejic.202400211">https://doi.org/10.1002/ejic.202400211</a>
         
 
