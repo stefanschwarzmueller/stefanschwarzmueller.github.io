@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[25] <sup>4</sup>P-Pavonite-type Cu<sub>1.8</sub>Sb<sub>5.4</sub>Se<sub>9</sub>: A One-Dimensional Copper Ion Conductor</b> \\
+<b>[25] <sup>4</sup>P-Pavonite-type Cu<sub>1.8</sub>Sb<sub>5.4</sub>Se<sub>9</sub>: A Potential One-Dimensional Copper Ion Conductor</b> \\
         S. Schwarzmüller, M. Amsler, S. Goedecker, H. Huppertz \\
-        <i>submitted manuscript</i> <b>2024</b> \\
+        <i>J. Alloys Compd.</i> <b>2025</b>, accepted manuscript. \\
         <a href="https://dx.doi.org/10.2139/ssrn.4852905">https://dx.doi.org/10.2139/ssrn.4852905</a>
         
 
