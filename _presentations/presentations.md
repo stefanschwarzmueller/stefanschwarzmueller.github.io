@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+<b>[37] Curioses, Sbannendes und Seltsames</b> \\
+        S. Schwarzmüller, H. Huppertz  \\
+        <i>8th Obergurgl-Seminar Solid-State Chemistry</i>, Obergurgl (Austria) <b>2025</b>.
+
+
 <b>[36] Pressure assisted synthesis of highly crystalline Li<sub>x</sub>MoS<sub>2</sub></b> \\
         S. Schwarzmüller, H. Huppertz  \\
         <i>32nd Annual Meeting of the German Crystallographic Society (DGK)</i>, Bayreuth (Germany) <b>2024</b>.
