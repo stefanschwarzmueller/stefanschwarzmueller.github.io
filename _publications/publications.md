@@ -7,7 +7,8 @@ author_profile: true
 
 <b>[26] High-pressure synthesis and crystal structure of Ga<sub>5</sub>Na<sub>1–x</sub>B<sub>12</sub>O<sub>26–x</sub>(OH)<sub>x</sub> (x = 0.12)</b> \\
         I. Widmann, K. Wurst, S. Schwarzmüller, H. Huppertz \\
-        <i>Z. Naturfosch. B </i> <b>2025</b>, accepted manuscript. 
+        <i>Z. Naturfosch. B </i> <b>2025</b>, accepted manuscript. \\
+        <a href="https://doi.org/10.1515/znb-2025-0005">https://doi.org/10.1515/znb-2025-0005</a>
 
 
 <b>[25] <sup>4</sup>P-Pavonite-type Cu<sub>1.8</sub>Sb<sub>5.4</sub>Se<sub>9</sub>: A Potential One-Dimensional Copper Ion Conductor</b> \\
